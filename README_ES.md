@@ -53,12 +53,13 @@ El resultado de usar `emblems` de esta forma es una organización de estructura 
 
 Proponemos las siguientes *guilds* para empezar:
 
-|Nombre|Responsabilidades|
-| --- | --- |
-|Mods|Se encargan de la moderación de las redes sociales de la DAO, como p.ej. los grupos de Telegram. También responden las preguntas de la comunidad, informan de novedades y ayudan a crear un buen clima de cooperación.
-|Devs|Son responsables de constuir y mantener la infrastructura técnica, como los contratos inteligentes, dapps, páginas web, repositorios de código, claves de ENS, mantener la lista de nuevas funcionalidades y arreglo de errores, etc. También tienen un papel muy importante en transmitir a la comunidad conocimiento en temas de ciber seguridad. |
-|Legals|Son el enlace entre el *mundo legado* y el Nuevo Mundo Libre. Asesoran a la comunidad en temas legales. Por ejemplo, si la DAO quisiera adquirir activos disponibles solo a través de los mecanismos del *mundo legado*, no a través de Web3 (como terrenos, edificios, etc.), los `legals` se encargarían de crear las estructuras legales para hacerlo de la mejor forma posible.|
-|Medias|Son los portavoces de la DAO. Son responsables de todo lo relacionado con comunicacion oficial de la misma a través de las redes sociales y medios de comunicacion tradicionales. Se encargan de la difusión de noticias de HUD a través diferentes canales y en diferentes idiomas, la creación de contenidos en diferentes formatos, la estrategia comunicativa, publicidad, etc. |
+|Nombre|Imagen|Responsabilidades|
+| --- | ---- | --- |
+|Mods|<img src="assets/img/mods.png" width="200px"/>|Se encargan de la moderación de las redes sociales de la DAO, como p.ej. los grupos de Telegram. También responden las preguntas de la comunidad, informan de novedades y ayudan a crear un buen clima de cooperación.
+|Artists|<img src="assets/img/artists.png" width="200px"/>|Crean el artwork de los tokens. Inspiran a la comunidad con sus creaciones. Contribuyen al diseño de interfaces atractivas para el usuario.|
+|Devs|<img src="assets/img/devs.png" width="200px"/>|Son responsables de constuir y mantener la infrastructura técnica, como los contratos inteligentes, dapps, páginas web, repositorios de código, claves de ENS, mantener la lista de nuevas funcionalidades y arreglo de errores, etc. También tienen un papel muy importante en transmitir a la comunidad conocimiento en temas de ciber seguridad. |
+|Legals|<img src="assets/img/legals.png" width="200px"/>|Son el enlace entre el *mundo legado* y el Nuevo Mundo Libre. Asesoran a la comunidad en temas legales. Por ejemplo, si la DAO quisiera adquirir activos disponibles solo a través de los mecanismos del *mundo legado*, no a través de Web3 (como terrenos, edificios, etc.), los `legals` se encargarían de crear las estructuras legales para hacerlo de la mejor forma posible.|
+|Medias|<img src="assets/img/medias.png" width="200px"/>|Son los portavoces de la DAO. Son responsables de todo lo relacionado con comunicacion oficial de la misma a través de las redes sociales y medios de comunicacion tradicionales. Se encargan de la difusión de noticias de HUD a través diferentes canales y en diferentes idiomas, la creación de contenidos en diferentes formatos, la estrategia comunicativa, publicidad, etc. |
 
 ### Projects
 
