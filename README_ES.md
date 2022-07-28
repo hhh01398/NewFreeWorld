@@ -126,6 +126,5 @@ Los siguientes horarios son orientativos. Las Community Calls se celebrarán en 
 
 |Hito|Fecha Estimada|Estado|
 | --- | --- | --- |
-|Votación de [#16 Support multiple transactions in a single voting](https://github.com/hhh01398/hud/issues/16) | 25-07 Lun | A tiempo |
-|Votacion para actualización del oráculo de PoH | 30-07 Sáb | A tiempo |
-|Votacion para:<br />- Creación de Genesis Token<br />- Creación de Emblemas<br />- Actualización del oráculo de PoH<br />- Otras mejoras técnicas | 05-08 Sáb | A tiempo |
+|Votación de [#16 Support multiple transactions in a single voting](https://github.com/hhh01398/hud/issues/16) | 31-07 Dom | A tiempo |
+|Votación para:<br />- Creación de Genesis Token<br />- Creación de Emblemas<br />- Actualización del oráculo de PoH<br />- Otras mejoras técnicas | 05-08 Sáb | A tiempo |
