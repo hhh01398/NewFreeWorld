@@ -26,11 +26,11 @@ En consecuencia, las Cortes aprueban y el pueblo español ratifica la siguiente
 
 ### Artículo 1
 
-1. España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político.
+1. España se constituye en un cluster de la Red Estado global, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político.
 
-2. La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado.
+2. La soberanía nacional reside en la DAO, del que emanan los poderes del Estado.
 
-3. La forma política del Estado español es la Monarquía parlamentaria.
+3. La forma política del Estado español es la de Organizacion Autonoma Descentralizada con un sistema de semi-democracia directa.
 
 ### Artículo 2
 
@@ -480,7 +480,7 @@ La Reina consorte o el consorte de la Reina no podrán asumir funciones constitu
 
 ### Artículo 62
 
-Corresponde al Rey:
+Corresponde a la DAO:
 
 a) Sancionar y promulgar las leyes.
 
@@ -490,7 +490,7 @@ c) Convocar a referéndum en los casos previstos en la Constitución.
 
 d) Proponer el candidato a Presidente del Gobierno y, en su caso, nombrarlo, así como poner fin a sus funciones en los términos previstos en la Constitución.
 
-e) Nombrar y separar a los miembros del Gobierno, a propuesta de su Presidente.
+e) Asignar los emblemas de Gobierno, a propuesta de su Presidente.
 
 f) Expedir los decretos acordados en el Consejo de Ministros, conferir los empleos civiles y militares y conceder honores y distinciones con arreglo a las leyes.
 
@@ -945,7 +945,7 @@ Los daños causados por error judicial, así como los que sean consecuencia del 
 
 2. El Consejo General del Poder Judicial es el órgano de gobierno del mismo. La ley orgánica establecerá su estatuto y el régimen de incompatibilidades de sus miembros y sus funciones, en particular en materia de nombramientos, ascensos, inspección y régimen disciplinario.
 
-3. El Consejo General del Poder Judicial estará integrado por el Presidente del Tribunal Supremo, que lo presidirá, y por veinte miembros nombrados por el Rey por un período de cinco años. De éstos, doce entre Jueces y Magistrados de todas las categorías judiciales, en los términos que establezca la ley orgánica; cuatro a propuesta del Congreso de los Diputados, y cuatro a propuesta del Senado, elegidos en ambos casos por mayoría de tres quintos de sus miembros, entre abogados y otros juristas, todos ellos de reconocida competencia y con más de quince años de ejercicio en su profesión.
+3. El Consejo General del Poder Judicial estará integrado por el veinte miembros nombrados por la DAO por un período de cinco años.
 
 ### Artículo 123
 1. El Tribunal Supremo, con jurisdicción en toda España, es el órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en materia de garantías constitucionales.
