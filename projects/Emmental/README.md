@@ -88,19 +88,6 @@ You can see the [diff here](https://github.com/hhh01398/HUD_cluster_Spain_EN/com
 <img src="assets/img/p2.png" height="300px"/>
 
 
-## Result
-
-|Area|Problem|Solution
-| --- | --- | --- 
-|Economy | Inflation | 
-|Geopolitics | Wars | 
-|Public services | Wars | 
-|Insitutional corruption | Wars |
-
-...TODO
-
-
-
 ## Ambassadors
 
 ### Responsibilities
