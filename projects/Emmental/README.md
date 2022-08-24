@@ -31,7 +31,26 @@ The *Emmental* approach has several advatanges over to the approach of crowfundi
 
 3. The infrastructure is already built. Not only in physical terms, such as energy and water system, garbage disposal, communications, etc. but also in social and legal terms.
 
-The migration to a New Free World can be done progressively by proposing ammendments to the current legislation in all the areas of the state, such as the judicial system, migration policy, taxation, etc. As an example, the image below shows a hypothetical change of one article of the Constitution of Spain that describes the current centralized corruption-prone process of selection of judges of the *Supreme Court*:
+The migration to a New Free World must be done progressively by implementing small changes.
+
+|Phase|Legislation|Finance|Organization
+| --- | --- | --- | --- |
+|Upgrade-0 | Legislation is fully off-chain. | <img src="assets/img/p0.png" height="400px"/>| TODO corruption, no revocation, etc.
+|Upgrade-1 | Legislation is progressively migrated from off-chain to on-chain. | <img src="assets/img/p1.png" height="600px"/> | Main state employees such as prime ministers
+|Upgrade-2 | Legislation is fully on-chain through smart contracts wherever technically possible. Implementation of new rules or change of current rules need the approval of a transaction through on-chain voting | <img src="assets/img/p2.png" height="600px"/>| Every transaction can be monitored, approved and/or revoked by the DAO, as well as any official appointment, through the use of emblem tokens. Note that the official roles and responsibilities have been replaced by smart contracts. The officials in this phase are in charge of tasks which cannot be automated yet, such as building and maintaining code, advocating for proposals, etc.
+
+
+|Area|Problem|Solution
+| --- | --- | --- 
+|Geopolitical | Wars |
+|Economical | Inflation |
+...TODO
+
+
+
+
+
+proposing ammendments to the current legislation in all the areas of the state, such as the judicial system, migration policy, taxation, etc. As an example, the image below shows a hypothetical change of one article of the Constitution of Spain that describes the current centralized corruption-prone process of selection of judges of the *Supreme Court*:
 
 <img src="assets/img/diff_example.png"/>
 You can see the [diff here](https://github.com/hhh01398/HUD_cluster_Spain_EN/compare/current...proposal1)
@@ -76,7 +95,7 @@ The following phases are proposed:
 |Deposit| Once a minimum number of HUD members is reached for a region, the members must make a deposit in a smart contract created for such purpose. The funds will be unlocked on the condition that the member finally moves. |
 |Moving| The HUD members move to the region. A proof of location should be provided in order to unlock the deposited funds. |
 |Settlement| The HUD members live in the new region and join the political affairs there with the goal to build a democratic majority that supports the principles of HUD. |
-
+|Upgrade| A certain level of democratic power is reached that allows HUD to implement actual changes towards a fully-fledged cluster of HUD network state |
 
 ## List of clusters
 
