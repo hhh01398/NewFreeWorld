@@ -31,29 +31,74 @@ The *Emmental* approach has several advatanges over to the approach of crowfundi
 
 3. The infrastructure is already built. Not only in physical terms, such as energy and water system, garbage disposal, communications, etc. but also in social and legal terms.
 
-The migration to a New Free World must be done progressively by implementing small changes.
+### Phases
 
-|Phase|Legislation|Finance|Organization
-| --- | --- | --- | --- |
-|Upgrade-0 | Legislation is fully off-chain. | <img src="assets/img/p0.png" height="400px"/>| TODO corruption, no revocation, etc.
-|Upgrade-1 | Legislation is progressively migrated from off-chain to on-chain. | <img src="assets/img/p1.png" height="600px"/> | Main state employees such as prime ministers
-|Upgrade-2 | Legislation is fully on-chain through smart contracts wherever technically possible. Implementation of new rules or change of current rules need the approval of a transaction through on-chain voting | <img src="assets/img/p2.png" height="600px"/>| Every transaction can be monitored, approved and/or revoked by the DAO, as well as any official appointment, through the use of emblem tokens. Note that the official roles and responsibilities have been replaced by smart contracts. The officials in this phase are in charge of tasks which cannot be automated yet, such as building and maintaining code, advocating for proposals, etc.
+The following phases are proposed:
 
-
-|Area|Problem|Solution
-| --- | --- | --- 
-|Geopolitical | Wars |
-|Economical | Inflation |
-...TODO
-
+|Phase|Description|
+| --- | --- |
+|Selection| The community debates on what criteria use to select the regions. The following criteria could be used:<br /><br /> - **Legislation:** Laws in the region must allow citizens to move freely and the posibility to change the laws and regulations of the region through democratic means.<br /><br /> - **Political sentiment:** The closer to HUD ideas the political sentiment of the region is, the easier it will be to create a new political majority.<br /><br /> - **Population:** Changing the political sentiment of a region is more plausible if the initial number of inhabitants in the region is lower.<br /><br /> - **Economy:** The region's economy should be expanding, both in terms of job offers and accommodation, in order to better absorb the influx of immigrants.<br /><br /> - **Natural resources:** The region must have natural resources (rivers, minerals, arable land, etc.) and explotation systems (dams, mines, crops, etc.) so the region can be as much self-sufficient as possible.<br /><br /> - **Infrastructures:** The region should be connected with other regions by land, water and air.
+|Crowfunding| Optionally, the community crowfund the project through, for example, the issuance of a specific emblem token that allows the holder to enjoy certain services or run certain positions once the `Settlement` phase is reached. |
+|Signaling| HUD members who want to move permanently to one of the selected areas must share it with the community in the first place. |
+|Deposit| Once a minimum number of HUD members is reached for a region, the members must make a deposit in a smart contract created for such purpose. The funds will be unlocked on the condition that the member finally moves. |
+|Moving| The HUD members move to the region. A proof of location should be provided in order to unlock the deposited funds. |
+|Settlement| The HUD members live in the new region and join the political affairs there with the goal to build a democratic majority that supports the principles of HUD. |
+|Upgrade| A certain level of democratic power is reached that allows HUD to implement actual changes towards a fully-fledged cluster of HUD network state |
 
 
+The actual migration from the Legacy System to a New Free World system cannot be done overnight but it must be done progressively by implementing small changes, which can be divided into the following sub-phases within the Upgrade phase:
+
+**Phase: Upgrade-0**
+
+**Legislation:** All legislation is fully off-chain.
+
+**Organization:** Corruption-prone, with no practical mechanisms for revocation of state employees, lack of transparency and accountability, nor screening criteria to pick candidates.
+
+**Finance:**
+
+<img src="assets/img/p0.png" height="300px"/>
 
 
-proposing ammendments to the current legislation in all the areas of the state, such as the judicial system, migration policy, taxation, etc. As an example, the image below shows a hypothetical change of one article of the Constitution of Spain that describes the current centralized corruption-prone process of selection of judges of the *Supreme Court*:
+**Phase: Upgrade-1**
+
+**Legislation:** Several modules are migrated from off-chain to on-chain.
+
+In this phase, it is possible for the DAO to propose ammendments to the current legislation in all the areas of the state, such as the judicial system, migration policy, taxation, etc. This changes are needed as a middle step before the actual on-chain migration of the whole system. As an example, the image below shows a hypothetical change of one article of the Constitution of Spain that describes the current centralized corruption-prone process of selection of judges of the *Supreme Court*:
 
 <img src="assets/img/diff_example.png"/>
 You can see the [diff here](https://github.com/hhh01398/HUD_cluster_Spain_EN/compare/current...proposal1)
+
+
+**Organization:** Holding an emblem token is needed to run a main position as state employee, such as prime ministers, presidents, supreme court judges, mayors, heads of departments or ministries, etc. The DAO can assign and revoke these tokens.
+
+**Finance:**
+
+<img src="assets/img/p1.png" height="600px"/>
+
+
+
+**Phase: Upgrade-2**
+
+**Legislation:** Legislation is migrated fully on-chain through smart contracts, wherever technically possible. Implementation of new rules or change of current rules need the approval of a transaction through on-chain voting
+
+**Organization:** Every transaction can be monitored, approved and/or revoked by the DAO, as well as any official appointment, through the use of emblem tokens. Note that the official roles and responsibilities have been replaced by smart contracts. The officials in this phase are in charge of tasks which cannot be automated yet, such as building and maintaining code, advocating for proposals, etc.
+
+**Finance:**
+
+<img src="assets/img/p2.png" height="300px"/>
+
+
+## Result
+
+|Area|Problem|Solution
+| --- | --- | --- 
+|Economy | Inflation | 
+|Geopolitics | Wars | 
+|Public services | Wars | 
+|Insitutional corruption | Wars |
+
+...TODO
+
 
 
 ## Ambassadors
@@ -82,20 +127,6 @@ Like any other member of the DAO, ambassadors can create emblems to form task fo
 
 4. In order to receive and hold the emblem token, you must stake certain number of HUD tokens.
 
-
-### Phases
-
-The following phases are proposed:
-
-|Phase|Description|
-| --- | --- |
-|Selection| The community debates on what criteria use to select the regions. The following criteria could be used:<br /><br /> - **Legislation:** Laws in the region must allow citizens to move freely and the posibility to change the laws and regulations of the region through democratic means.<br /><br /> - **Political sentiment:** The closer to HUD ideas the political sentiment of the region is, the easier it will be to create a new political majority.<br /><br /> - **Population:** Changing the political sentiment of a region is more plausible if the initial number of inhabitants in the region is lower.<br /><br /> - **Economy:** The region's economy should be expanding, both in terms of job offers and accommodation, in order to better absorb the influx of immigrants.<br /><br /> - **Natural resources:** The region must have natural resources (rivers, minerals, arable land, etc.) and explotation systems (dams, mines, crops, etc.) so the region can be as much self-sufficient as possible.<br /><br /> - **Infrastructures:** The region should be connected with other regions by land, water and air.
-|Crowfunding| Optionally, the community crowfund the project through, for example, the issuance of a specific emblem token that allows the holder to enjoy certain services or run certain positions once the `Settlement` phase is reached. |
-|Signaling| HUD members who want to move permanently to one of the selected areas must share it with the community in the first place. |
-|Deposit| Once a minimum number of HUD members is reached for a region, the members must make a deposit in a smart contract created for such purpose. The funds will be unlocked on the condition that the member finally moves. |
-|Moving| The HUD members move to the region. A proof of location should be provided in order to unlock the deposited funds. |
-|Settlement| The HUD members live in the new region and join the political affairs there with the goal to build a democratic majority that supports the principles of HUD. |
-|Upgrade| A certain level of democratic power is reached that allows HUD to implement actual changes towards a fully-fledged cluster of HUD network state |
 
 ## List of clusters
 
