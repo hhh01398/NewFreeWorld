@@ -23,7 +23,15 @@ Our goal is:
 >
 > We strongly believe we need to achieve the NFW urgently before humanity crosses the *point of no return* that will trap humanity in a technocratic dystopia.
 
+
+<video src='https://www.youtube.com/watch?v=oFtI8PeDw3o' width=80% />
+
+
+
 To know more about our principles and ideas, check out our [blog](https://mirror.xyz/0x52E0b45F59e58a10ABbe105F00ac771CFee814be)
+
+
+
 
 
 ## Implementation
